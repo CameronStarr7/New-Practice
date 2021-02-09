@@ -1,5 +1,5 @@
-someVery
+var greeting = "Hi there"
+var name = "Brandon"
+var nameTwo = "Koda"
 
-substantialCode
-
-Hehe
+console.log(greeting + ',' + nameTwo);
